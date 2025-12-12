@@ -248,7 +248,7 @@ ORDER BY dt;
 
 ---
 
-# **5AWS Athena – Query Data di S3**
+# **AWS Athena – Query Data di S3**
 
 **File Python:** `Athena.py`
 **File SQL:** `Athena.sql`
